@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of the assertions of Mr. Samuel Oates, (in relation to his not practising the laying on of hands on all baptized believers) which are as followeth, viz. 1. That laying on of hands is not Gods ordinance, as it is practised on the aforesaid subjects, viz. on all baptized believers. 2. Neither as to the manner of performing the same, viz. 1. In that there is no injunction for more persons then one to lay on hands at once. 2. In that it is not restrained to the head. 3. In that there is no word of God to enjoyn the kneeling of the subject in the act of laying on of hands. 4. Neither to use words of expression when hands are on the subject. 3. Neither as to the end, as it is practised upon all baptized believers; for that the laying on of hands was, 1. To heal the sick. 2. For ordination of officers. 3. For giving miraculous gifts of the spirit, and not otherwise. 4. That no person ought to have the laying on of hands, that doth not believe that thereby he shall be healed of some disease, or receive some miraculous gift of the spirit. By John Spittlehouse, who doth contraryvvise affirm as followeth, ...</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93698</idno>
+            <idno type="STC">Wing S5006</idno>
+            <idno type="STC">Thomason E725_15</idno>
+            <idno type="STC">Thomason E699_12</idno>
+            <idno type="STC">ESTC R206771</idno>
+            <idno type="EEBO-CITATION">99865877</idno>
+            <idno type="PROQUEST">99865877</idno>
+            <idno type="VID">166796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166796)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[15] or 108:E699[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of the assertions of Mr. Samuel Oates, (in relation to his not practising the laying on of hands on all baptized believers) which are as followeth, viz. 1. That laying on of hands is not Gods ordinance, as it is practised on the aforesaid subjects, viz. on all baptized believers. 2. Neither as to the manner of performing the same, viz. 1. In that there is no injunction for more persons then one to lay on hands at once. 2. In that it is not restrained to the head. 3. In that there is no word of God to enjoyn the kneeling of the subject in the act of laying on of hands. 4. Neither to use words of expression when hands are on the subject. 3. Neither as to the end, as it is practised upon all baptized believers; for that the laying on of hands was, 1. To heal the sick. 2. For ordination of officers. 3. For giving miraculous gifts of the spirit, and not otherwise. 4. That no person ought to have the laying on of hands, that doth not believe that thereby he shall be healed of some disease, or receive some miraculous gift of the spirit. By John Spittlehouse, who doth contraryvvise affirm as followeth, ...</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Moone, at the seven stars in Paul's Church-yard, neer the great North-door.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy E.725[15]: "Jan. 2.d 1653"; annotation on Thomason copy E.699[12]: "June 11th 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Otes, Samuel, 1578 or 9-1658 --  Early works to 1800.</term>
+               <term>Impostion of hands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166796:1"/>
+            <head>A Confutation Of the ASSERTIONS OF Mr. SAMUEL OATES, (In relation to his not practiſing the laying on of hands on all baptized Believers) Which are as followeth, <hi>viz.</hi>
+            </head>
+            <p n="1">1. That Laying on of hands is not Gods Ordinance, as it is practiſed on the afore<g ref="char:EOLhyphen"/>ſaid <hi>Subjects,</hi> viz. on all baptized believers.</p>
+            <p n="2">2. Neither as to the <hi>Manner</hi> of performing the ſame, <hi>viz. 1.</hi> In that there is no injunction for more perſons then one to lay on hands at once. 2. In that it is not reſtrained to the head. 3. In that there is no word of God to enjoyn the knee<g ref="char:EOLhyphen"/>ling of the Subject in the act of Laying on of hands. 4. Neither to uſe words of expreſſion when hands are on the Subject.</p>
+            <p n="3">3. Neither as to the <hi>End,</hi> as it is practiſed upon all baptized believers; for that the Laying on of hands was, 1. To heal the ſick. 2. For Ordination of Of<g ref="char:EOLhyphen"/>ficers. 3. For giving miraculous gifts of the Spirit, and not otherwiſe. 4. That no perſon ought to have the Laying on of hands, that doth not believe that there<g ref="char:EOLhyphen"/>by he ſhall be healed of ſome diſeaſe, or receive ſome miraculous gift of the Spirit.</p>
+            <p>By <hi>John Spittlehouſe,</hi> Who doth contrarywiſe affirm as followeth, <hi>V I Z.</hi>
+            </p>
+            <p n="1">I. IN relation to the <hi>Subject,</hi> That laying on of hands is an Or<g ref="char:EOLhyphen"/>dinance of Jeſus Chriſt, as it is practized upon the aforeſaid ſubjects, <hi>(viz.) all baptized believers.</hi>
+            </p>
+            <p n="1">
+               <pb n="2" facs="tcp:166796:2"/>1. In that the Spirit of God inſtrumentally by the Apoſtles of Jeſus Chriſt, hath recorded the ſame as a <hi>Principle</hi> and <hi>doctrine to all true Hebrews,</hi> or <hi>Jewes,</hi> or <hi>baptized Believers;</hi> as in <hi>Heb.</hi> 6. 1, 2. which words are not ſpoken to ſome <hi>particular diſeaſed perſons,</hi> or <hi>men in office,</hi> or <hi>workers of Miracles</hi> (as in Mr. <hi>Oates</hi> his aforeſaid concluſions) but unto <hi>all Saints in General (viz.</hi> even unto as many <hi>as God hath in theſe laſt dayes ſpoken unto by his Son;</hi> as in <hi>Heb. 1. 1, 2. (viz) to all the ſpiritual ſeed of Abra<g ref="char:EOLhyphen"/>ham,</hi> as in <hi>Gal.</hi> 3. 7, 9. And ſo conſequently Hebrews, as in <hi>Rom.</hi> 2. 28.</p>
+            <p n="2">2. In that it was alſo ſuch a <hi>Principle</hi> and <hi>doctrine</hi> as was pra<g ref="char:EOLhyphen"/>ctiſed by the Apoſtles <hi>upon whole Churches of baptized Believers;</hi> inſtance, Act. 8. 17. and 19. 6, 7. which two aforeſaid places Mr. <hi>Oates</hi> hath lately acknowledged to be meant of <hi>all</hi> as aforeſaid; ſo that it will neceſſarily follow, that <hi>the like practice</hi> ought now to be made <hi>upon all ſuch like baptized believers, as they were,</hi> as al<g ref="char:EOLhyphen"/>ſo the aforementioned perſons, in <hi>Heb.</hi> 1. 1, 2. inaſmuch as the ſame <hi>principle</hi> and <hi>doctrine</hi> remaineth now <hi>in force unto us,</hi> by which it was <hi>ſo adminiſtred upon them,</hi> as in <hi>Heb.</hi> 6. 1, 2. as aforeſaid.</p>
+            <p n="3">3. In that by the <hi>ſame rule</hi> that Mr. <hi>Oates<g ref="char:punc">▪</g>
+               </hi> or any of his judge<g ref="char:EOLhyphen"/>ment (as aforeſaid) can ſingle out a <hi>particular baptiſm</hi> out of the aforeſaid <hi>principle</hi> or <hi>doctrine</hi> of <hi>Baptiſmes,</hi> that ſhall relate to <hi>all the faithful in General,</hi> it will as cleerly follow, that there is as well <hi>a peculiar laying on of hands,</hi> to be <hi>extracted</hi> out of the principle and doctrine of the laying on of hands, that belongeth to the aforeſaid <hi>faithful ones being baptized.</hi>
+            </p>
+            <p n="4">4. Inaſmuch as no rational man will deny that the <hi>Principles</hi> and <hi>Foundations</hi> of <hi>Repentance</hi> and <hi>Faith towards God,</hi> belongeth to <hi>all believers in general;</hi> as alſo, the like <hi>Principle</hi> and <hi>doctrine</hi> of the <hi>reſurrection of the dead,</hi> and of <hi>eternal judgement;</hi> as alſo, <hi>a particular Baptiſm of water</hi> out of the <hi>principle</hi> and <hi>do<g ref="char:EOLhyphen"/>ctrine</hi> of <hi>Baptiſms,</hi> as is both acknowledged and practiſed generally upon <hi>all believers,</hi> by Mr. <hi>Oats</hi> himſelf: what reaſon then is there in the leaſt, that Mr. <hi>Oats</hi> ſhould deny an extract to be made of <hi>a particular laying on of hands,</hi> out of the aforeſaid <hi>principle</hi> and <hi>doctrine</hi> of Laying on of hands, that may <hi>run parallel</hi> with the a<g ref="char:EOLhyphen"/>foreſaid <hi>General Baptiſm</hi> ſo practiſed by Mr. <hi>Oates;</hi> or that even
+<pb n="3" facs="tcp:166796:2"/> common ſenſe ſhould imagine, that the aforeſaid five principles ſhould concern the <hi>generality of believers,</hi> and that the ſixth ſhould be reſtrained to ſome particular perſons and ends as aforeſaid?</p>
+            <p n="2">II. Touching Mr. <hi>Oates</hi> his <hi>aſſertion</hi> touching the <hi>Manner</hi> of laying on of hands upon <hi>all baptized Believers, viz.</hi> that it is <hi>not an Or<g ref="char:EOLhyphen"/>dinance of Jeſus Chriſt,</hi> as it is practiſed by ſuch as lay on hands upon <hi>all believers;</hi>
+            </p>
+            <p>Object. 1. <hi>In that</hi> (ſaith Mr. <hi>Oates) there is</hi> no Injunction <hi>for more perſons then</hi> one <hi>to lay on hands at</hi> once.</p>
+            <p>
+               <hi>Reſp.</hi> In ſo ſaying, Mr. <hi>Oates</hi> hath clearly contradicted the follow<g ref="char:EOLhyphen"/>ing texts of Scripture, <hi>viz. Act.</hi> 8. 14, 15, 16, 17, 18. where it is manifeſt, that both <hi>Peter and John layd their hands upon the Sa<g ref="char:EOLhyphen"/>maritanes there mentioned;</hi> and that the ſaid <hi>Peter</hi> and <hi>John</hi> were <hi>enjoyned</hi> ſo to do, will alſo appear from verſ. 14. where they were <hi>ſent to do what they did</hi> by the appointment of <hi>all the Apo<g ref="char:EOLhyphen"/>ſtles</hi> then at <hi>Jeruſalem,</hi> and ſo conſequently <hi>by Jeſus Chriſt him<g ref="char:EOLhyphen"/>ſelf<g ref="char:punc">▪</g>
+               </hi> who had promiſed to <hi>ratifie</hi> what they ſhould do in his name; as in <hi>Matth.</hi> 18. 18, 19, 20. as alſo, <hi>that the Spirit of truth ſhould lead them into all truth,</hi> Joh. 16. 13. All which, if not a <hi>ſufficient warrant</hi> for the aforeſaid <hi>Peter and John</hi>'s acting as a<g ref="char:EOLhyphen"/>foreſaid, I would gladly know of Mr. <hi>Oates</hi> (or any for him) what <hi>fuller rule</hi> they have to practiſe the Laying on of hands upon any to the aforeſaid purpoſes mentioned by him, <hi>viz.</hi> as to the <hi>healing of the ſick</hi> or <hi>diſeaſed, Ordination of Officers,</hi> or <hi>obtaining mi<g ref="char:EOLhyphen"/>raculous gifts of the Spirit.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 2. In that Mr. <hi>Oates</hi> ſaith, <hi>that Laying on of hands</hi> is not to be reſtrained to the head;</p>
+            <p>
+               <hi>Reſp.</hi> 1. I would gladly know <hi>what part of the body</hi> Mr. <hi>Oates</hi> would have laying on of hands <hi>reſtrained unto,</hi> in any of the caſes aforementioned, <hi>if not to the head;</hi> and by <hi>what warrant</hi> from the Word of God.</p>
+            <p n="2">2. That laying on of hands, as it is practiſed by us upon <hi>all baptized believers,</hi> ought to be <hi>reſtrained to the head.</hi> I inſtance from <hi>Gen.</hi> 48. where when <hi>Jacob</hi> bleſſed <hi>Ephraim</hi> and <hi>Manaſſeh,</hi> the text ſaith, that he <hi>laid his hands upon the heads of the afore<g ref="char:EOLhyphen"/>ſaid perſons,</hi> as clearly appeareth from verſ. 14. to 21. and there<g ref="char:EOLhyphen"/>fore inaſmuch as we uſe the aforeſaid Laying on of hands <hi>upon the
+<pb n="4" facs="tcp:166796:3"/> like occaſion,</hi> viz. as <hi>a bleſſing of the ſubject by the Church in the name of Jeſus Chriſt,</hi> (who is thereby repreſented to be the <hi>head,</hi> not onely of the <hi>ſubject</hi> upon whom hands are ſo layd, but alſo in like manner of <hi>the Church it ſelf)</hi> we think it our <hi>duty</hi> ſo to pra<g ref="char:EOLhyphen"/>ctiſe the ſame.</p>
+            <p>
+               <hi>Object.</hi> 3. In that M. <hi>Oates</hi> ſaith, <hi>There is no word of God to enjoyn the</hi> kneeling <hi>of the ſubject</hi> in the <hi>act of laying on of hands;</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. God hath enjoyned that <hi>every knee ſhall bow unto him, Iſai.</hi> 45. 23. 2. Inaſmuch as the <hi>Name of Jeſus</hi> (in whoſe name the ſubject is to be <hi>bleſſed with ſpiritual gifts, adminiſtrations, or operations</hi> of the Spirit, Lord, or God, as aforeſaid, as <hi>Jacob bleſſed Ephraim and Manaſſeh with temporal bleſſings)</hi> is ſo <hi>exalted by God above all names, as that at it every knee ſhall bow, both of things in heaven, viz.</hi> in the Church; as <hi>things in earth, viz.</hi> in the world;</p>
+            <p>Therefore, ſay we, it is as well the <hi>duty</hi> of ſuch ſubjects to <hi>kneel to the Church,</hi> as they <hi>repreſent the body of Jeſus Chriſt,</hi> as it is the <hi>duty</hi> of <hi>natural children</hi> to <hi>kneel</hi> to receive the bleſſings of their natural parents, as in the former inſtance of <hi>Ephraim</hi> and <hi>Manaſſeh,</hi> who doubtleſs did not ſtand upright when <hi>Jacob bleſſed them</hi> as a<g ref="char:EOLhyphen"/>foreſaid, they being about 22 or 23 yeers old, being born in the yeers of plenty, ſome four or five yeers before <hi>Jacob</hi> came down into <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> who had then been 17 yeers in <hi>Egypt;</hi> as alſo in that <hi>Jacob did only ſit up in his bed when he ſo bleſſed them,</hi> ſo that in <hi>all pro<g ref="char:EOLhyphen"/>bability</hi> the aforeſaid <hi>Ephraim</hi> and <hi>Manaſſeth kneeled when they received Iacobs bleſſing,</hi> as aforeſaid. (3.) Inaſmuch as <hi>kneeling</hi> is the moſt proper poſture to <hi>crave bleſſings from God,</hi> ſo likewiſe in the <hi>reception</hi> of ſuch his benedictions as are obtained from God inſtrumentally <hi>by his body the Church.</hi> (4.) If any poſture, why not kneeling?</p>
+            <p>
+               <hi>Object.</hi> 4. In that Mr. <hi>Oats</hi> ſaith there is <hi>no need to uſe words of expreſſion</hi> when <hi>hands</hi> are on the <hi>ſubject,</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> This <hi>Objection</hi> doth likewiſe <hi>clearly contradict the Scri<g ref="char:EOLhyphen"/>ptures;</hi> inſtance the text aforementioned, where <hi>Iacob,</hi> whilſt his <hi>hands</hi> were upon <hi>Ephraim</hi> and <hi>Manaſſeh's head, uſed the words men<g ref="char:EOLhyphen"/>tioned</hi> in v. 15, 16, 20. which doubtleſs was alſo his <hi>practice</hi> upon his own ſons, Chap. 45. where he is likewiſe ſaid to bleſs them.</p>
+            <pb n="5" facs="tcp:166796:3"/>
+            <p>2. It doth likewiſe as clearly thwart the <hi>practice</hi> of Jeſus Chriſt himſelf, <hi>Mat.</hi> 19. 13. who when little children were preſented to him, to the end he might <hi>put his hands upon them, and pray,</hi> is not ſaid to gainſay the ſame, <hi>but did as well pray for them, as lay his hands on them,</hi> Mark 10. 16.</p>
+            <p>3. It doth alſo in like manner as clearly contradict the <hi>practice</hi> of the Apoſtles, as in the afore-mentioned places of <hi>Act.</hi> 8. 14, &amp;c. where it is ſaid that <hi>Peter</hi> and <hi>Iohn</hi> being ſent to <hi>Samaria,</hi> &amp;c. <hi>prayed</hi> for ſuch of the Samaritanes as were <hi>baptized</hi> in the name of the Lord Jeſus, to the end they might <hi>receive the holy Ghoſt;</hi> which doubtleſs they did <hi>whilſt their hands were upon them:</hi> for verſ. 16. (being meerly a parentheſis) doth not in the leaſt put any <hi>interim of time</hi> betwixt the <hi>Apoſtles praying</hi> for the aforeſaid <hi>Samaritanes,</hi> and their <hi>laying their hands upon them,</hi> as alſo the <hi>donation of the holy Ghoſt.</hi>
+            </p>
+            <p>4. No rational man will imagine that the Apoſtle <hi>Paul</hi> uſed <hi>a contrary courſe</hi> in laying his hands <hi>on the diſciples of Epheſus,</hi> Act. 19. then was formerly <hi>practiſed by Peter and Iohn;</hi> there being <hi>but one true way or doing the work of God,</hi> as in point of <hi>Baptiſm.</hi>
+            </p>
+            <p>5. In the <hi>example</hi> of <hi>Ananias</hi> to <hi>Saul,</hi> Act. 9. 17. where being <hi>ſent</hi> to lay his hand upon <hi>Saul,</hi> ſaith, <hi>whilſt his hands were upon him, Brother Saul, the Lord, even Ieſus that appeared unto thee in the way as thou cameſt, hath ſent me, that thou mightſt receive thy ſight, and be filled with the holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> If it be objected that <hi>Ananias</hi> did act <hi>alone,</hi> as alſo <hi>Paul,</hi> in <hi>Acts</hi> 19. as aforeſaid;</p>
+            <p>I anſwer, that as for <hi>Ananias,</hi> he was appointed <hi>ſinglely by God</hi> to do the ſame, as in <hi>Acts</hi> 9. 10, &amp;c. and as for <hi>Paul,</hi> he muſt of <hi>ne<g ref="char:EOLhyphen"/>ceſſity do it alone,</hi> becauſe there were none with him there, that were fit for ſuch an action, as the whole paſſage doth clearly evidence.</p>
+            <p n="3">III. As touching the <hi>End,</hi> whereas Mr. <hi>Oats</hi> affirmeth, That Laying on of hands doth <hi>onely tend</hi> to the aforeſaid particulars, <hi>viz.</hi> to <hi>heal the ſick,</hi> to <hi>cure the diſeaſed,</hi> to <hi>ordain Officers,</hi> to <hi>give miraculous gifts of the Spirit;</hi>
+            </p>
+            <p>I anſwer, that Laying on of hands ought not to be <hi>reſtrained</hi> onely to the aforeſaid particulars, no more then the principle and do<g ref="char:EOLhyphen"/>ctrine of <hi>Baptiſms</hi> ought to be reſtrained to the baptiſm of ſuffering
+<pb n="6" facs="tcp:166796:4"/> or blood, mentioned <hi>Matth. 20. 22, 23. Mark 10. 38, 39. Luk.</hi> 12. 50. or the baptiſm of the holy Ghoſt or fire, mentioned <hi>Mark. 1. 8. Mat. 3. 11. Luk. 3. 16. Ioh.</hi> 1. 26. inaſmuch as it is as general a principle and doctrine as Water-baptiſm, (which Mr. <hi>Oats</hi> will ſingle out from the aforeſaid Baptiſms, as a general ſtanding Princi<g ref="char:EOLhyphen"/>ple and doctrine, to continue ſo long as there is need of teaching, un<g ref="char:EOLhyphen"/>to which it is joyned by Jeſus Chriſt himſelf, <hi>Matth.</hi> 28. 19, 20.) and therefore of as large a latitude and continuance as Water-baptiſm or any other of the aforeſaid principles or doctrines.</p>
+            <p>Againe we read that the <hi>whole Church of Corinth</hi> were indowed with ſeveral <hi>gifts, Adminiſtrations,</hi> or <hi>Operations</hi> of the aforeſaid <hi>Spirit,</hi> as in 1 <hi>Cor.</hi> 12. which <hi>Gifts, Manifeſtations,</hi> or <hi>Operations,</hi> if the ſaid Church of <hi>Corinth</hi> did not receive <hi>by the laying on of hands</hi> as aforeſaid, I would <hi>gladly know</hi> of Mr. <hi>Oats how</hi> or by <hi>what means</hi> they ſo obtained them; Seeing that the aforeſaid Apoſtle commenting thereupon, attributeth the very <hi>expreſſing</hi> or <hi>ſaying,</hi> that <hi>Jeſus is the Lord,</hi> unto the <hi>Operation of the holy Ghoſt,</hi> as in ver. 3. as alſo in the following verſes. Where ſpeaking of the <hi>diverſities of Gifts</hi> of the aforeſaid <hi>Spirit</hi> or <hi>holy Ghoſt,</hi> as alſo of the differences of the <hi>Ad<g ref="char:EOLhyphen"/>miniſtrations</hi> thereof, as alſo of the <hi>diverſities</hi> of the <hi>Operations</hi> thereof, ſaith, that they all <hi>proceed</hi> from the ſame <hi>Spirit, Lord</hi> or <hi>God,</hi> viz. the diverſities of <hi>Gifts</hi> from the <hi>Spirit</hi> or <hi>holy Ghoſt,</hi> the differences of the <hi>Adminiſtrations</hi> thereof from the ſame Lord, and the diverſities of the <hi>Operation</hi> thereof from the ſame God, which (ſaith he) worketh <hi>all, in all</hi>
+            </p>
+            <p>After which he treateth of the aforeſaid <hi>Gifts, Adminiſtrations,</hi> or <hi>Operations apart,</hi> as they were given to <hi>particular Members</hi> of the aforeſaid Church of <hi>Corinth,</hi> to profit the whole body withall, which he thus <hi>diſtinguiſheth</hi> or <hi>divideth (viz.)</hi> as to one or ſome of them <hi>the word of wiſdom,</hi> to another of them <hi>a word of know<g ref="char:EOLhyphen"/>ledge,</hi> to another <hi>faith,</hi> to another the <hi>gift of healing,</hi> to another the <hi>working of miracles,</hi> to another <hi>propheſie,</hi> to another <hi>a diſ<g ref="char:EOLhyphen"/>cerning of Spirits,</hi> to another <hi>divers kindes of tongues,</hi> and to ano<g ref="char:EOLhyphen"/>ther the <hi>intepretation of tongues,</hi> and all by <hi>one</hi> and the ſame <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> dividing to <hi>every man according as he will.</hi>
+            </p>
+            <p>So that nothing can be <hi>more evident,</hi> then that the aforeſaid <hi>Gifts, Adminiſtrations,</hi> or <hi>Operations</hi> of the aforeſaid <hi>Spirit,
+<pb n="7" facs="tcp:166796:4"/> Lord,</hi> or <hi>God,</hi> was given to the aforeſaid particular members of the Church of <hi>Corinth by the laying on of hands;</hi> for in that they are ſo clearly manifeſted to be the <hi>Gifts</hi> of the aforeſaid <hi>Spirit,</hi> or <hi>holy Ghoſt,</hi> as alſo that the <hi>ſame Spirit,</hi> or <hi>holy Ghoſt</hi> was inſtrumentally given <hi>by the laying on of hands,</hi> it cannot in reaſon be conceived, that the aforeſaid members of the aforeſaid Church of <hi>Corinth,</hi> ſhould <hi>receive</hi> the aforeſaid <hi>gifts</hi> of the <hi>Spirit,</hi> or <hi>holy Ghoſt</hi> as aforeſaid, by any <hi>other way or means</hi> then <hi>by laying on of hands<g ref="char:punc">▪</g>
+               </hi> it being then, and ſtill remaineth <hi>a generall principle or doctrine</hi> appointed for the aforeſaid purpoſe, according as the aforeſaid <hi>Spirit, Lord,</hi> or <hi>God,</hi> in their divine wiſedome, ſeeth occaſion.</p>
+            <p>The meaneſt of which aforeſaid <hi>Gifts, Adminiſtrations,</hi> or <hi>Operati<g ref="char:EOLhyphen"/>ons,</hi> are as well to be acknowledged to be the <hi>donation</hi> of the aforeſaid <hi>Spirit, Lord,</hi> or <hi>God,</hi> and that joyntly and ſeverally, as we do ac<g ref="char:EOLhyphen"/>knowledge the aforeſaid <hi>Spirit, Lord<g ref="char:punc">▪</g>
+               </hi> or <hi>God</hi> to be <hi>a Trinity in <g ref="char:V">Ʋ</g>nity, and <g ref="char:V">Ʋ</g>nity in Trinity;</hi> as alſo that by how much we <hi>annihilate</hi> or <hi>undervalue</hi> the <hi>ſeemingly-meaneſt</hi> of the aforeſaid <hi>Gifts, Ad<g ref="char:EOLhyphen"/>miniſtrations,</hi> or <hi>operations</hi> of the aforeſaid <hi>Spirit, Lord</hi> or <hi>God,</hi> by ſo much we do annihilate the aforeſaid <hi>Spirit, Lord</hi> or <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>For, as the Apoſtle excellently obſerveth, the Church or Body of Chriſt hath as well need of the <hi>foot</hi> as of the <hi>hand,</hi> and of the <hi>hand</hi> as of the <hi>eye;</hi> yea, he affirmeth, that even ſuch of the ſeemingly-moſt-feeble and unneceſſary gifts aforeſaid, are expedient, to the end there might be no <hi>Schiſm</hi> in the Church or Body of Chriſt.</p>
+            <p>It may therefore ſafely be concluded, quite contrary to Mr. <hi>Oats</hi> his aforeſaid aſſertion, that the Laying on of hands is every way as ne<g ref="char:EOLhyphen"/>ceſſary for<g ref="char:punc">▪</g> the obtaining of the aforeſaid moſt ſeemingly-feeble and unneceſſary gifts, adminiſtrations, or operations, as for the greateſt endowments whatſoever can be given thereby. The contradiction of which, doth expreſly give the Apoſtle the Lye, and ſo conſequently the Spirit, Lord, and God, as aforeſaid: which I hope Mr. <hi>Oats</hi> will not wittingly do, nor any of his preſent judgement.</p>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:166796:5"/>
+            <head>Postſcript.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>INaſmuch as having theſe thoughts upon my ſpirit at our laſt meeting, and not having then an opportunity to expreſs the ſame; I have therefore, out of the abundance of my heart, manifeſted my thoughts upon your then Diſcourſe; which if either your ſelf, or any of your judgement, ſhall further oppoſe, I ſhall be ready to reply thereunto: knowing that Truth is able to vanquiſh Errour, albeit in the meaneſt of its ſervants,</p>
+            <closer>
+               <signed>Iohn Spittlehouſe.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Moone,</hi> at the ſeven ſtars in <hi>Paul</hi>'s Church-yard, neer the great North-door. 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
